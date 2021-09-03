@@ -20,7 +20,7 @@ public class App {
 		// }
 		
 		
-		//int numOfCats = 4;
+		// int numOfCats = 4;
 
 		ArrayList<Cat> objList = new ArrayList<>();
 		String [] nameArr = {"Grizabella","Alonzo", "RumTumTugger","Suzanne"};
