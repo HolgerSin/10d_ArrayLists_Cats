@@ -32,7 +32,7 @@ public class App {
 	// 	ausgabe(objList.get(1).getAttributes());
 	// 	ausgabe(objList.get(objList.size()-1).getAttributes());
 		
-	// }
+	}
 	
 	public static void ausgabe(String outStr) {
 		System.out.println(outStr);
